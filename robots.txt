@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deepaccountus.github.io/sitemap.xml
